@@ -20,4 +20,4 @@ It works on any browser that supports user script extensions, such as [Violentmo
 * Profit.
 
 # Video guide for step 4 in the above bulleted list
-![](https://i.imgur.com/KLvP3Yo.gif)
+https://github.com/user-attachments/assets/1c0ff1e6-78c0-421b-b206-2cd70c550abd
