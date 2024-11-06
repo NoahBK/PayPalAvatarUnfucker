@@ -4,8 +4,8 @@
 // @version      1.7
 // @homepage     https://github.com/NoahBK
 // @supportURL   https://github.com/NoahBK/PayPalAvatarUnfucker/issues
-// @downloadURL  https://github.com/NoahBK/PayPalAvatarUnfucker/raw/master/script.user.js
-// @updateURL    https://github.com/NoahBK/PayPalAvatarUnfucker/raw/master/script.user.js
+// @downloadURL  https://github.com/NoahBK/PayPalAvatarUnfucker/raw/main/script.user.js
+// @updateURL    https://github.com/NoahBK/PayPalAvatarUnfucker/raw/main/script.user.js
 // @description  Replaces SVG with an image and removes the background color from PayPal's icon
 // @author       https://github.com/NoahBK
 // @match        https://www.paypal.com/*
